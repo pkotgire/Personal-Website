@@ -14,9 +14,9 @@ $body = <<<EOBODY
 
       <!-- Brief Description -->
       <ul>
-      <li>Aspiring Software Engineer</li>
-      <li>Computer Science student at the University of Maryland</li>
-      <li>Undergraduate Teaching Assistant</li>
+      <li id="list-arrow">Aspiring Software Engineer</li>
+      <li id="list-arrow">Computer Science student at the University of Maryland</li>
+      <li id="list-arrow">Undergraduate Teaching Assistant</li>
       </ul>
 
       <!-- About Me -->
